@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jackym-mbuya
-- 👀 I’m interested in ...app development and site development and solving software problems
-- 🌱 I’m currently learning ...python,java,c++
-- 💞️ I’m looking to collaborate on ...the station above
-- 📫 How to reach me ...
+Hi there! 👋 I'm Jackim Mbuya, a passionate Software Engineer with a deep interest in building scalable, efficient, and innovative software solutions. I specialize in full-stack development, system architecture, and machine learning, with hands-on experience in designing and deploying robust applications.
 
-<!---
-jackym-mbuya/jackym-mbuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Tech Stack: Python | JavaScript (React, Node.js) | Java | C++ | SQL | NoSQL | Docker | Kubernetes | AWS
+🔹 Interests: Cloud Computing ☁ | AI & Machine Learning 🤖 | Cybersecurity 🔐 | DevOps ⚙️
+🔹 Projects: From deep learning models to enterprise-grade web applications, I love solving real-world problems with code.
+
+💡 I’m always exploring cutting-edge technologies and contributing to open-source projects. If you’re into AI, software architecture, or tech innovations, let’s connect and collaborate!
+
+📫 Let's Connect: LinkedIn | Portfolio | Twitter
